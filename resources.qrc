@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>Media/Pixel_Art_Car_Driving_A_Highway_At_Night.gif</file>
+    </qresource>
+</RCC>
