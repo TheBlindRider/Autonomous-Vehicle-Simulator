@@ -6,10 +6,12 @@ This project for CS 136 (Introduction to Data Structures) is a GUI-based simulat
 
 - Team 2 Members:
   - Cristal Lara (Lead Developer)
+    - Full development of the simulation software, including logic, UI, backend, and debugging. Directed all programming decisions and implementation.
   - Cielito Fernandez
   - Oisin Kiely
   - Gang Li
   - Karmina Ramirez
+- All remaining team members contributed to the project write-up, presentation preparation, and assisted with the debugging process.
 - Language: C++
 - Framework: Qt
 - IDE Support: Visual Studio Code
