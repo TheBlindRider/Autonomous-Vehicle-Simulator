@@ -5,7 +5,7 @@ This project for CS 136 (Introduction to Data Structures) is a GUI-based simulat
 📁 Project Overview 📁
 
 - Team 2 Members:
-  - Cristal Lara
+  - Cristal Lara (Lead Developer)
   - Cielito Fernandez
   - Oisin Kiely
   - Gang Li
